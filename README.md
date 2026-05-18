@@ -127,3 +127,4 @@ Me chamo Vinicius Camparini Siqueira, tenho 25 anos e. Desenvolvedor em formaÃ§Ã
   />
 
 </p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
