@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Backend`**
 
-Me chamo Vinicius Camparini Siqueira, tenho 25 anos e. Desenvolvedor em formação com foco em Python, automação e desenvolvimento backend. Atualmente desenvolvendo projetos utilizando FastAPI, APIs REST, SQLite e automações com N8N. Tenho interesse em criar soluções práticas, organizadas e escaláveis, buscando evoluir constantemente em programação, arquitetura de sistemas e boas práticas de desenvolvimento".
+Me chamo Vinicius Camparini Siqueira, tenho 25 anos e. Desenvolvedor em formação com foco em Python, automação e desenvolvimento backend. Atualmente desenvolvendo projetos utilizando FastAPI, APIs REST, SQLite e automações com N8N. Tenho interesse em criar soluções práticas, organizadas e escaláveis, buscando evoluir constantemente em programação, arquitetura de sistemas e boas práticas de desenvolvimento.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/viniciuscamparini/">
